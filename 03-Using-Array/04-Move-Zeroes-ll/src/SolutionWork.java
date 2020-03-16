@@ -59,7 +59,7 @@ public class SolutionWork {
         return i;
     }
 
-        public static void main(String[]args){
+    public static void main(String[]args){
         int nums[] = {0,0,1,1,1,1,2,3,3};
         long startTime = System.currentTimeMillis();
 
