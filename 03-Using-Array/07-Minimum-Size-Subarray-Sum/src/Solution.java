@@ -3,7 +3,7 @@ import org.omg.CORBA.INTERNAL;
 /**
  * @PackageName:PACKAGE_NAME
  * @ClassName:Solution
- * @Description: leetcode 209 https://github.com/liuyubobobo/Play-with-Algorithm-Interview/tree/master/03-Using-Array/Course%20Code%20(Java)
+ * @Description: leetcode 209 https://leetcode-cn.com/problems/minimum-size-subarray-sum/
  * @Autor:CourageHe
  * @Date: 2020/3/19 10:45
  */
