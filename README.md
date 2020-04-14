@@ -30,11 +30,11 @@ Play-with-Algorithm-Interview
 | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 例题：字符串优化数组形式   | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/03-Using-Array/08-Longest-Substring-Without-Repeating-Characters/src/Solution.java) | 2019/3/19 | 中等 |
 | [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | 作业：双指针法 之滑动窗口★ | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/03-Using-Array/08-Longest-Substring-Without-Repeating-Characters/src/SolutionWork.java) | 2019/3/19 | 中等 |
 
-## 第四章 找表相关问题
+## 第四章 查找表相关问题
 
 | LeetCode/模板                                                | 简要说明                |                           解题代码                           |   时间    | 难度 |
 | ------------------------------------------------------------ | ----------------------- | :----------------------------------------------------------: | :-------: | :--: |
-| [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | 例题：set解答           |                           [源码]()                           | 2020/3/25 | 简单 |
+| [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | 例题：set解答           | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/04-Using-Hash-Table/01-Intersection-of-Two-Arrays/src/Solution.java) | 2020/3/25 | 简单 |
 | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | 例题：map解答           | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/04-Using-Hash-Table/02-Intersection-of-Two-Arrays-II/src/Solution.java) | 2020/3/25 | 简单 |
 | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) | 作业：暴力解答          | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/04-Using-Hash-Table/02-Intersection-of-Two-Arrays-II/src/SolutionWork.java) | 2020/3/25 | 简单 |
 | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 作业：List解答          | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/04-Using-Hash-Table/02-Intersection-of-Two-Arrays-II/src/SolutionWork2.java) | 2020/3/25 | 简单 |
@@ -54,8 +54,27 @@ Play-with-Algorithm-Interview
 
 
 
+## 第5章 在链表中穿针引线
 
-
-
+| LeetCode/模板                                                | 简要说明              |                           解题代码                           |   时间    | 难度 |
+| ------------------------------------------------------------ | --------------------- | :----------------------------------------------------------: | :-------: | :--: |
+| [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 例题：递归法          | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/01-Reverse-Linked-List/src/Solution.java) | 2020/4/4  | 简单 |
+| [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 例题：虚拟头节点      | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/01-Reverse-Linked-List/src/Solution206_2.java) | 2020/4/4  | 简单 |
+| [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 例题：普通循环        | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/01-Reverse-Linked-List/src/Solution206_3.java) | 2020/4/4  | 简单 |
+| [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 作业：倒转……          | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/01-Reverse-Linked-List/src/Solution92.java) | 2020/4/4  | 中等 |
+| [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | 作业：虚拟头节点      | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/02-Test-Your-Linked-List/src/Solution2.java) | 2020/4/14 | 中等 |
+| [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | 作业：反转+虚拟头节点 | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/02-Test-Your-Linked-List/src/Solution445.java) | 2020/4/14 | 中等 |
+| [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 作业：普通循环        | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/02-Test-Your-Linked-List/src/Solution83.java) | 2020/4/14 | 简单 |
+| [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 作业：递归法          | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/02-Test-Your-Linked-List/src/Solution83_2.java) | 2020/4/14 | 简单 |
+| [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | 作业：循环            | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/02-Test-Your-Linked-List/src/Solution86.java) | 2020/4/14 | 中等 |
+| [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 作业：虚拟头节点      | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/02-Test-Your-Linked-List/src/Solution328.java) | 2020/4/14 | 中等 |
+| [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | 例题：虚拟头节点      | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/03-Remove-Linked-List-Elements/src/Solution.java) | 2020/4/14 | 简单 |
+| [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 作业：虚拟头节点      | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/03-Remove-Linked-List-Elements/src/Solution21.java) | 2020/4/14 | 简单 |
+| [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 作业：虚拟头节点      | [源码](https://github.com/CourageHe/Play-with-Algorithm-Interview/blob/master/05-About-Linked-List/03-Remove-Linked-List-Elements/src/Solution82.java) | 2020/4/14 | 中等 |
+|                                                              | 作业：虚拟头节点      |                           [源码]()                           | 2020/4/14 | 中等 |
+|                                                              | 作业：虚拟头节点      |                           [源码]()                           | 2020/4/14 | 中等 |
+|                                                              |                       |                                                              |           |      |
+|                                                              |                       |                                                              |           |      |
+|                                                              |                       |                                                              |           |      |
 
 ##
