@@ -1,5 +1,3 @@
-import java.util.List;
-
 /**
  * @PackageName:PACKAGE_NAME
  * @ClassName:Solution
